@@ -1,6 +1,6 @@
 ### Project Setup
 
-#### [Live Demo]()
+#### [Live Demo](https://tradecore-wizard.netlify.app/)
 
 #### Run the project from docker:
 
